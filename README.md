@@ -1,2 +1,4 @@
 # Interactive Radio Buttons
-## Using Filter property in css
+#### Using
+- Grid property
+- Filter property 
